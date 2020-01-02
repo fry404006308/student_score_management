@@ -1,0 +1,2 @@
+使用apache服务器的话，可以在域名配置文件中加上这句话
+DirectoryIndex index.php index.html
